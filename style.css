@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+}
+.logo{
+    padding-left: 40px;
+
+}
+
+.r{
+    align-items: right;
+    width: 50%;
+}
+
+.s{
+    float: left;
+    width: 100px;
+}
+.content{
+    padding-right: 40px;
+}
+
+.row{
+    margin: 0%;
+}
+.has-heading{
+    margin: auto;
+}
+.b{
+    background-color: #a6a6a6;
+}
+.card{
+    margin: auto;
+}
+.box-about{
+    width: 80%;
+    height: 600px;
+    background-color: #ffffff;
+    margin: auto;
+    border-radius: 0.2cm;
+    overflow-x: scroll;
+}
+.contact{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 30px;
+}
+.pop{
+    margin: auto;
+    background-color: #a6a6a6;
+    overflow-x: scroll;
+    border-radius: 0.2cm;
+}
